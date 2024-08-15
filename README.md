@@ -1,4 +1,4 @@
-# Setting Up VirtualBox and a Vulnerable Web Server for Penetration Testing Practice  
+# Creating an Isolated Network in VirtualBox and Setting Up a Vulnerable Web Server for Penetration Testing Practice
 
 ## Setting Up a Virtual Machine and Vulnerable Web Server
 A Kali Linux OS and a "Mr. Robot" Vulnerable Web Server (VWS) from VulnHub was installed and set up on VirtualBox.
